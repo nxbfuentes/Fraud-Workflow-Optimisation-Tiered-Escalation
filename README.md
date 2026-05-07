@@ -45,6 +45,7 @@ This visual representation (found at the top of this response) shows exactly how
 * **The Bottleneck:** Every call, regardless of risk, must pass through a "Mandatory Hand-off" to the Fraud Team or Bureau.
 * **The Result:** Because this team is limited in staff and external, a backlog is created (Red Box). This leads to the long wait times (60+ minutes) and missed callbacks you've observed.
 
+![Fraud Diagram](frauddiagram.png)
 
 2. **PROPOSED STATE (Bottom Flow):**
 * **The Decision Point (Yellow Diamond):** Instead of a mandatory hand-off, the Contact Centre Officer assesses the **Risk Tier**.
@@ -54,12 +55,6 @@ This visual representation (found at the top of this response) shows exactly how
 
 
 
----
-
-### **💡 Portfolio Integration: "Remediation Project"**
-
-When you add this to your portfolio, use the following framing to align with your Grade 4 JD:
-
 **Objective:** To improve the operational resilience of the bank's fraud detection service under **APRA CPS 230**.
 
 **Key Metrics (KRIs) for this project:**
@@ -68,38 +63,5 @@ When you add this to your portfolio, use the following framing to align with you
 * **Control Accuracy:** Measure the "Success Rate" of Senior CC Officers to ensure delegating unblocking authority hasn't led to an increase in actual fraud losses (ensuring the control remains effective).
 * **Cost to Serve:** Reduction in the expensive "Double-Handling" of member inquiries.
 
----
 
 
-This visual representation (found at the top of this response) shows exactly how your proposed **Delegated Authority Framework** would work. This diagram is perfect for showing Andrea Davison that you understand how to design efficient **Operational Risk** controls.
-
-### **🔍 Visual Breakdown: Fraud Workflow Optimization**
-
-1. **CURRENT STATE (Top Flow):**
-* **The Bottleneck:** Every call, regardless of risk, must pass through a "Mandatory Hand-off" to the Fraud Team or Bureau.
-* **The Result:** Because this team is limited in staff and external, a backlog is created (Red Box). This leads to the long wait times (60+ minutes) and missed callbacks you've observed.
-
-
-2. **PROPOSED STATE (Bottom Flow):**
-* **The Decision Point (Yellow Diamond):** Instead of a mandatory hand-off, the Contact Centre Officer assesses the **Risk Tier**.
-* **The Efficiency Path (Green Box):** For **Low-Risk** scenarios (e.g., travel-related blocks, simple verification of legitimate member activity), authority is delegated to a **Senior Contact Centre Officer** to unblock immediately. This clears the "Flood Risk" and increases member satisfaction.
-* **The Specialist Path (Red Box):** Only **High-Risk** scenarios (e.g., Crypto transfers, rapid Osko movements, remote access indicators) are sent to the **Fraud Team**.
-* **The Result:** Experts focus on actual scams (Mule detection) rather than routine admin tasks.
-
-
-
----
-
-### **💡 Portfolio Integration: "Remediation Project"**
-
-When you add this to your portfolio, use the following framing to align with your Grade 4 JD:
-
-**Objective:** To improve the operational resilience of the bank's fraud detection service under **APRA CPS 230**.
-
-**Key Metrics (KRIs) for this project:**
-
-* **Wait Time Reduction:** Target reduction of 30% in peak call periods.
-* **Control Accuracy:** Measure the "Success Rate" of Senior CC Officers to ensure delegating unblocking authority hasn't led to an increase in actual fraud losses (ensuring the control remains effective).
-* **Cost to Serve:** Reduction in the expensive "Double-Handling" of member inquiries.
-
----
